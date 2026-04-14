@@ -13,14 +13,14 @@ const doctors = [
     img: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800&auto=format&fit=crop"
   },
   {
-    name: "Dr. Elena Rossi",
+    name: "Dr. Sarah Jenkins",
     title: "Lead Robotic Surgeon",
-    img: "https://images.unsplash.com/photo-1594824406935-df45d4705ec4?q=80&w=800&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=800&auto=format&fit=crop"
   },
   {
     name: "Dr. David Thorne",
     title: "Chief of Oncology",
-    img: "https://images.unsplash.com/photo-1537368910025-7028a4113dce?q=80&w=800&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=800&auto=format&fit=crop"
   }
 ];
 
