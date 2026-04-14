@@ -23,7 +23,7 @@ export default function Footer() {
               </div>
              </div>
              <p className="text-slate-200/80 text-sm leading-relaxed mb-8 max-w-sm">
-               World-class medical excellence delivered with profound human compassion. Since 2005.
+               World-class medical excellence delivered with profound human compassion. Since 2026.
              </p>
           </div>
 
@@ -63,7 +63,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-4">
                 <MapPin className="text-shreeyash-accent mt-0.5 shrink-0" size={16} />
-                <span>123 Healing Blvd, Medical Center<br/>New York, NY 10001</span>
+                <span>123 Healing Blvd, Medical Center<br/>Pune</span>
               </li>
             </ul>
           </div>
