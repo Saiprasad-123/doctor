@@ -3,24 +3,24 @@ import { ArrowRight } from 'lucide-react';
 
 const doctors = [
   {
-    name: "Dr. Sarah Jenkins",
+    name: "Dr. yash",
     title: "Chief of Neurosurgery",
-    img: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=800&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800&auto=format&fit=crop"
   },
   {
-    name: "Dr. Marcus Chen",
+    name: "Dr. Mahesh",
     title: "Head of Cardiology",
     img: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800&auto=format&fit=crop"
   },
   {
-    name: "Dr. Sarah Jenkins",
+    name: "Dr. Sarthak",
     title: "Lead Robotic Surgeon",
-    img: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=800&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800&auto=format&fit=crop"
   },
   {
-    name: "Dr. David Thorne",
+    name: "Dr. David",
     title: "Chief of Oncology",
-    img: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=800&auto=format&fit=crop"
+    img: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800&auto=format&fit=crop"
   }
 ];
 
